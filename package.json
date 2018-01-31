@@ -1,0 +1,22 @@
+{
+  "name": "formbuilder",
+  "version": "1.0.0",
+  "description": "Node js form builder tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "formBuilder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjweber/nodejs_FormBuilder.git"
+  },
+  "keywords": [
+    "formBuilder"
+  ],
+  "author": "Justin Weber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjweber/nodejs_FormBuilder/issues"
+  },
+  "homepage": "https://github.com/jjweber/nodejs_FormBuilder#readme"
+}
